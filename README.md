@@ -1,2 +1,2 @@
 # php-mysqli-oop-crud
-A simple CRUD operation by PHP and MySQL Object-oriented programming (OOP) 
+A simple CRUD operation by PHP and MySQLi Object-oriented programming (OOP) 

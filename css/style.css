@@ -1,0 +1,13 @@
+.fakeimg {
+    height: 200px;
+    background: #aaa;
+}
+#operation-result{
+    display: none;
+}
+.alert strong{
+    text-transform: uppercase;
+}
+.swal2-actions button{
+    margin-right: 10px;
+}
